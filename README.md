@@ -1,5 +1,8 @@
 ## Welcome to Craig's BeaUtahful Homepage
 
+![Causey Resevior Hike](files/images/causey_resevior_utah.jpg)
+
+
 ### About
 Howdy! I'm Craig Baumgarten. I have spent the last 6 years honing my skills as a software engineer in San Francisco. As of now, I am soul searching. Though technology is exciting, pays well, and is in high demand... I have come to the conclusion that the current pace of Tech when coupled with the unfettered morals of capitalism is a dangerous and untenable future. With that in mind, I seek a balance between technology and its place in our economy. Selfishly speaking, I am seeking my place between tech and demand of the world's economy.
 
@@ -20,7 +23,10 @@ Updates will be weekly.
   - Musings
   - Quotes
 
+### Recent Photos
 
+#### Causey Reservoir
+![Causey Resevior Hike](files/images/causey_resevior_1.jpg)
 
 
 
