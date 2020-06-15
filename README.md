@@ -1,5 +1,8 @@
 ## Welcome to Craig's BeaUtahful Homepage
 
+### About
+Howdy! I'm Craig Baumgarten. I have spent the last 6 years honing my skills as a software engineer in San Francisco. As of now, I am soul searching. Though technology is exciting, pays well, and is in high demand... I have come to the conclusion that the current pace of Tech when coupled with the unfettered morals of capitalism is a dangerous and untenable future. With that in mind, I seek a balance between technology and its place in our economy. Selfishly speaking, I am seeking my place between tech and demand of the world's economy.
+
 ### What to Expect?
 Well, I just moved to Ogden, UT in search of health, nature, and peace of mind. I plan to use the following website as a place for sharing, open thoughts, and photography.
 
@@ -17,35 +20,10 @@ Updates will be weekly.
   - Musings
   - Quotes
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/crgbaumgart/hugo-test-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
