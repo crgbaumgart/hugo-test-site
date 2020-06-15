@@ -1,3 +1,22 @@
+## Welcome to Craig's BeaUtahful Homepage
+
+### What to Expect?
+Well, I just moved to Ogden, UT in search of health, nature, and peace of mind. I plan to use the following website as a place for sharing, open thoughts, and photography.
+
+Updates will be weekly.
+
+### Topics
+- Outdoors
+  - Travel
+  - Hikes
+  - Camping
+  - Kayaking
+  - Rock Climbing
+- Thought Blog
+  - Thoughts
+  - Musings
+  - Quotes
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/crgbaumgart/hugo-test-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
