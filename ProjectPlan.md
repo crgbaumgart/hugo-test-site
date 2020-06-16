@@ -21,7 +21,7 @@
 ## Infrastructure 
 
 ### Simple Hosted Version ```v.0.0.1```
-- code source```: Github
+- code source: Github
 - hosted: Github Pages
 - platform: Hugo
 
