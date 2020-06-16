@@ -13,6 +13,8 @@ Well, I just moved to Ogden, UT in search of health, nature, and peace of mind. 
 
 Updates will be weekly.
 
+[Website Development Plans](ProjectPlan.md)
+
 ### Topics
 - Outdoors
   - Travel
@@ -29,7 +31,6 @@ Updates will be weekly.
 
 #### Causey Reservoir
 ![Causey Resevior Hike](files/images/causey_resevior_1.jpg)
-
 
 
 
