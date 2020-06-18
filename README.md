@@ -26,18 +26,9 @@ Updates will be weekly.
   - Thoughts
   - Musings
   - Quotes
+  - [Craig's Daily Gratitude List](https://gist.github.com/crgbaumgart/7950863494b991ad482b502ead8fa9c1)
 
 ### Recent Photos
 
 #### Causey Reservoir
 ![Causey Resevior Hike](files/images/causey_resevior_1.jpg)
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crgbaumgart/hugo-test-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
